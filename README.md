@@ -18,10 +18,10 @@ npm (Node Package Manager): O npm é instalado automaticamente com o Node.js. Ve
 <p>Mude para o diretório recém-criado usando o comando:</p>
 
 <code>cd nome-da-aplicacao</code>
-<h3>Passo 3: Iniciar a Aplicação</h3>h3>
+<h3>Passo 3: Iniciar a Aplicação</h3>
 <p>Para iniciar a aplicação, execute o seguinte comando:</p>
 
-npm run dev
+<code>npm run dev</code>
 
 Isso iniciará o servidor de desenvolvimento. Aguarde até ver uma mensagem indicando que o servidor está ouvindo em um determinado endereço, geralmente http://localhost:3000.
 
