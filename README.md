@@ -11,14 +11,8 @@
 <p><strong>Passo 3: Instalar as Dependências</strong></p>
 <code>npm install</code>
 
-<p><strong>Passo 4: Configurar as Variáveis de Ambiente</strong></p>
-<p>Copie o arquivo <code>.env.example</code> para <code>.env</code> e configure as variáveis de ambiente conforme necessário.</p>
-
-<p><strong>Passo 5: Iniciar a Aplicação</strong></p>
+<p><strong>Passo 4: Iniciar a Aplicação</strong></p>
 <code>npm start</code>
-
-<p><strong>Passo 6: Testar a Aplicação</strong></p>
-<p>Use um navegador ou ferramentas como <a href="https://www.postman.com/" target="_blank">Postman</a> para testar os endpoints da aplicação.</p>
 
 <h2>Conclusão</h2>
 
